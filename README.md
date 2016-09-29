@@ -248,7 +248,7 @@ document.getElementById('loadDogButton')
 # Thanks!
 
 - Special thanks to Avenue Code, SF Web Perf & Cyber Security meetup crew, all the speakers and most importantly all the attendees!
-- FYI, we are hiring! Go see Marcus at the back for more information. We also have a *Wine & Cheese* social networking hour on *Wednesday, October 12th*.
+- FYI, we are hiring! Go see Brittany at the back for more information. We also have a *Wine & Cheese* social networking hour on *Wednesday, October 12th*.
+- Learn more at [blog.avenuecode.com](http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/)
 - Talk: [tiagorg.com/talk-lazy-loading-es2015-modules-oktoberfest](http://tiagorg.com/talk-lazy-loading-es2015-modules-oktoberfest)
-- More talks at [tiagorg.com](http://tiagorg.com)
 - Follow me at [@tiagooo_romero](https://twitter.com/tiagooo_romero)
